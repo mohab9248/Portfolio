@@ -49,7 +49,11 @@ const Footer = () => {
         </div>
         <div className="right">
           <h4>About Me</h4>
-          <p>my name is mohamad....</p>
+          <p>
+            My Name is Mohamad Abbas, i'm Front-End React and React Native
+            developer, i build a responsive web design and apps, my hobbie is
+            football and basketball.
+          </p>
           <div className="social">
             <FaFacebook
               size={23}
