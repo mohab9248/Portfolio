@@ -8,10 +8,11 @@ const ProjectCardData = [
     source: "https://github.com/mohab9248/shoppy",
   },
   {
-    imgsrc: "image",
+    imgsrc:
+      "https://capstoneguide.com/wp-content/uploads/2020/07/PHILIPPINE-NATIONAL-RED-CROSS-BLOOD-BANK-MANAGEMENT-SYSTEM.png",
     title: "Blood Bank Website",
-    text: "shoppy application is a Ecommerce application made with react native",
-    source: "google.com",
+    text: "A team of 3 created a blood bank management system that helps to save lives. The system streamlines the process of blood donation and distribution, making it easier for people to get the blood they need.",
+    source: "https://github.com/bilalcherkawi/Bloodbank2",
   },
 ];
 

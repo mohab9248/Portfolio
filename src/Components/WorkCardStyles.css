@@ -8,13 +8,19 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    grid-gap:40px;
+    grid-gap:50px;
     padding-bottom: 5rem;
 }
 
+.img-card{
+    width:  550px;
+    height: 300px;
+    /* object-fit: cover; */
+}
 .project-card{
 background: #1a1919;
 padding:1.2rem 1rem ;
+width: 100%;
 }
 
 @media screen and (max-width:740px) {
@@ -33,6 +39,8 @@ padding:1.2rem 1rem ;
     padding-bottom: 1rem;
     font-size: 1.1rem;
     text-align: justify;
+    height:  150px;
+    
 }
 
 .pro-btns{
