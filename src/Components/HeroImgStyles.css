@@ -9,7 +9,7 @@
     height: 100%;
     background-size: cover;
     background-position: center;
-    object-fit: cover;
+    object-fit:fill;
 }
 
 .mask::after{
