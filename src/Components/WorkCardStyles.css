@@ -26,10 +26,22 @@ width: 100%;
 @media screen and (max-width:740px) {
     .project-container{
         max-width: 90%;
+        height: fit-content;
         margin: auto;
         grid-template-columns: 1fr;
     }
-    
+    .pro-details p{
+        padding-bottom: 1rem;
+        font-size: 1.1rem;
+        text-align: justify;
+        height:  90%px;
+        
+    }
+    .img-card{
+        width:  90%;
+        height: 90%;
+        /* object-fit: cover; */
+    }
 }
 .project-title{
     color: #fff;
